@@ -1,0 +1,171 @@
+[03/13/20 05:05:20 am] C:\Program Files\IDERA\ERStudio Data Architect 18.2\LicenseReg.exe
+
+[03/13/20 05:05:20 am] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 18.2\cglm.ini
+
+[03/13/20 05:05:20 am] INI file located.
+
+[03/13/20 05:05:20 am] Initializing LicenseManager.exe
+[03/13/20 05:05:20 am] License Repository Directory:C:\ProgramData\Embarcadero
+[03/13/20 05:05:20 am] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 18.2\\license
+[03/13/20 05:05:20 am] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 18.2\
+[03/13/20 05:05:20 am] License Dir Exists: True
+[03/13/20 05:05:20 am] Root Dir Exists: True
+[03/13/20 05:05:20 am] Default Dir Exists: True
+[03/13/20 05:05:20 am] ProductId:14113 - SkuId:-1
+
+[03/13/20 05:41:54 am] User Name:cloudshare@idera.com
+[03/13/20 05:41:54 am] ProductID being registered: 14113
+[03/13/20 05:41:54 am] Serial being registered: 3TFK-TRDKR7-MNX5DK-DDK6
+[03/13/20 05:41:54 am] Starting Registration Process.
+
+[03/13/20 05:42:00 am] Completed Registration Process.
+[03/13/20 05:42:00 am] Registration Error Code: 0
+[03/13/20 05:42:00 am] Registration Message: You have successfully registered your Idera product.  Click Finish to exit.
+
+[11/12/20 05:11:24 am] C:\Program Files\IDERA\ERStudio Data Architect 18.5\LicenseReg.exe
+
+[11/12/20 05:11:24 am] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 18.5\cglm.ini
+
+[11/12/20 05:11:24 am] INI file located.
+
+[11/12/20 05:11:24 am] Initializing LicenseManager.exe
+[11/12/20 05:11:24 am] License Repository Directory:C:\ProgramData\Embarcadero
+[11/12/20 05:11:24 am] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 18.5\\license
+[11/12/20 05:11:24 am] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 18.5\
+[11/12/20 05:11:24 am] License Dir Exists: True
+[11/12/20 05:11:24 am] Root Dir Exists: True
+[11/12/20 05:11:24 am] Default Dir Exists: True
+[11/12/20 05:11:24 am] ProductId:14114 - SkuId:-1
+
+[11/12/20 05:17:09 am] User Name:jamie.knowles@idera.com
+[11/12/20 05:17:09 am] ProductID being registered: 14114
+[11/12/20 05:17:09 am] Serial being registered: CTFK-EUNSR6-3YQ4AK-D3L6
+[11/12/20 05:17:09 am] Starting Registration Process.
+
+[11/12/20 05:17:12 am] Completed Registration Process.
+[11/12/20 05:17:12 am] Registration Error Code: 0
+[11/12/20 05:17:12 am] Registration Message: You have successfully registered your Idera product.  Click Finish to exit.
+
+[05/10/21 03:50:18 am] C:\Program Files\IDERA\ERStudio Data Architect 19.0\LicenseReg.exe
+
+[05/10/21 03:50:18 am] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 19.0\cglm.ini
+
+[05/10/21 03:50:18 am] INI file located.
+
+[05/10/21 03:50:18 am] Initializing LicenseManager.exe
+[05/10/21 03:50:18 am] License Repository Directory:C:\ProgramData\Embarcadero
+[05/10/21 03:50:18 am] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.0\\license
+[05/10/21 03:50:18 am] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.0\
+[05/10/21 03:50:18 am] License Dir Exists: True
+[05/10/21 03:50:18 am] Root Dir Exists: True
+[05/10/21 03:50:18 am] Default Dir Exists: True
+[05/10/21 03:50:18 am] ProductId:14115 - SkuId:-1
+
+[05/10/21 03:50:46 am] User Name:jamie.knowles@idera.com
+[05/10/21 03:50:46 am] ProductID being registered: 14115
+[05/10/21 03:50:46 am] Serial being registered: MTHK-NTDSUF-LNN5NA-AEK6
+[05/10/21 03:50:46 am] Starting Registration Process.
+
+[05/10/21 03:50:50 am] Completed Registration Process.
+[05/10/21 03:50:50 am] Registration Error Code: 0
+[05/10/21 03:50:50 am] Registration Message: You have successfully registered your Idera product.  Click Finish to exit.
+
+[12/02/21 01:21:03 pm] C:\Program Files\IDERA\ERStudio Data Architect 19.1\LicenseManager.exe
+
+[12/02/21 01:21:04 pm] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 19.1\cglm.ini
+
+[12/02/21 01:21:04 pm] INI file located.
+
+[12/02/21 01:21:04 pm] Initializing LicenseManager.exe
+[12/02/21 01:21:04 pm] License Repository Directory:C:\ProgramData\Embarcadero
+[12/02/21 01:21:04 pm] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\\license
+[12/02/21 01:21:04 pm] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\
+[12/02/21 01:21:04 pm] License Dir Exists: True
+[12/02/21 01:21:04 pm] Root Dir Exists: True
+[12/02/21 01:21:04 pm] Default Dir Exists: True
+[12/02/21 01:21:04 pm] ProductId:14115 - SkuId:-1
+
+[12/09/21 10:02:49 am] C:\Program Files\IDERA\ERStudio Data Architect 19.1\LicenseManager.exe
+
+[12/09/21 10:02:49 am] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 19.1\cglm.ini
+
+[12/09/21 10:02:49 am] INI file located.
+
+[12/09/21 10:02:49 am] Initializing LicenseManager.exe
+[12/09/21 10:02:49 am] License Repository Directory:C:\ProgramData\Embarcadero
+[12/09/21 10:02:49 am] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\\license
+[12/09/21 10:02:49 am] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\
+[12/09/21 10:02:49 am] License Dir Exists: True
+[12/09/21 10:02:49 am] Root Dir Exists: True
+[12/09/21 10:02:49 am] Default Dir Exists: True
+[12/09/21 10:02:49 am] ProductId:14115 - SkuId:-1
+
+[12/14/21 12:16:16 pm] C:\Program Files\IDERA\ERStudio Data Architect 19.1\LicenseManager.exe
+
+[12/14/21 12:16:16 pm] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 19.1\cglm.ini
+
+[12/14/21 12:16:16 pm] INI file located.
+
+[12/14/21 12:16:16 pm] Initializing LicenseManager.exe
+[12/14/21 12:16:16 pm] License Repository Directory:C:\ProgramData\Embarcadero
+[12/14/21 12:16:16 pm] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\\license
+[12/14/21 12:16:16 pm] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\
+[12/14/21 12:16:16 pm] License Dir Exists: True
+[12/14/21 12:16:16 pm] Root Dir Exists: True
+[12/14/21 12:16:16 pm] Default Dir Exists: True
+[12/14/21 12:16:16 pm] ProductId:14115 - SkuId:-1
+
+[01/31/22 11:20:58 am] C:\Program Files\IDERA\ERStudio Data Architect 19.1\LicenseManager.exe
+
+[01/31/22 11:20:58 am] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 19.1\cglm.ini
+
+[01/31/22 11:20:58 am] INI file located.
+
+[01/31/22 11:20:58 am] Initializing LicenseManager.exe
+[01/31/22 11:20:58 am] License Repository Directory:C:\ProgramData\Embarcadero
+[01/31/22 11:20:58 am] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\\license
+[01/31/22 11:20:58 am] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\
+[01/31/22 11:20:58 am] License Dir Exists: True
+[01/31/22 11:20:58 am] Root Dir Exists: True
+[01/31/22 11:20:58 am] Default Dir Exists: True
+[01/31/22 11:20:58 am] ProductId:14115 - SkuId:-1
+
+[02/15/22 11:42:09 am] C:\Program Files\IDERA\ERStudio Data Architect 19.1\LicenseManager.exe
+
+[02/15/22 11:42:09 am] Looking for license INI file:C:\Program Files\IDERA\ERStudio Data Architect 19.1\cglm.ini
+
+[02/15/22 11:42:09 am] INI file located.
+
+[02/15/22 11:42:09 am] Initializing LicenseManager.exe
+[02/15/22 11:42:09 am] License Repository Directory:C:\ProgramData\Embarcadero
+[02/15/22 11:42:09 am] Default License Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\\license
+[02/15/22 11:42:09 am] Root Directory:C:\Program Files\IDERA\ERStudio Data Architect 19.1\
+[02/15/22 11:42:09 am] License Dir Exists: True
+[02/15/22 11:42:09 am] Root Dir Exists: True
+[02/15/22 11:42:09 am] Default Dir Exists: True
+[02/15/22 11:42:09 am] ProductId:14115 - SkuId:-1
+
+[02/15/22 12:51:54 pm] C:\Program Files\Embarcadero\ERStudio Data Architect 11.0\LicenseReg.exe
+
+[02/15/22 12:51:54 pm] Looking for license INI file:C:\Program Files\Embarcadero\ERStudio Data Architect 11.0\cglm.ini
+
+[02/15/22 12:51:54 pm] INI file located.
+
+[02/15/22 12:51:54 pm] Initializing LicenseManager.exe
+[02/15/22 12:51:54 pm] License Repository Directory:C:\ProgramData\Embarcadero
+[02/15/22 12:51:54 pm] Default License Directory:C:\Program Files\Embarcadero\ERStudio Data Architect 11.0\\license
+[02/15/22 12:51:54 pm] Root Directory:C:\Program Files\Embarcadero\ERStudio Data Architect 11.0\
+[02/15/22 12:51:54 pm] License Dir Exists: True
+[02/15/22 12:51:54 pm] Root Dir Exists: True
+[02/15/22 12:51:54 pm] Default Dir Exists: True
+[02/15/22 12:51:54 pm] ProductId:14109 - SkuId:-1
+
+[02/15/22 12:52:10 pm] EDN User Name:anil_mahadev@icloud.com
+[02/15/22 12:52:10 pm] ProductID being registered: 14109
+[02/15/22 12:52:10 pm] Serial being registered: HTAE-SRSK3N-D9WLAK-D4M6
+[02/15/22 12:52:10 pm] Starting Registration Process.
+
+[02/15/22 12:52:10 pm] Completed Registration Process.
+[02/15/22 12:52:10 pm] Registration Error Code: 0
+[02/15/22 12:52:10 pm] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
